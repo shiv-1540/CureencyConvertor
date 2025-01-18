@@ -1,5 +1,9 @@
 # Currency Converter Application 💱  
-![Banner](https://github.com/user-attachments/assets/6f8947d8-5b2d-4bf5-9e48-013f46d6d086)  
+
+<div>
+   <img src="https://github.com/user-attachments/assets/6f8947d8-5b2d-4bf5-9e48-013f46d6d086"/>
+   <img src="https://github.com/user-attachments/assets/2bf065f2-5eb6-4d5c-8e25-5cc3b0ee10fa"/>
+</div>
 
 A **Java Swing and AWT-based Currency Converter** that allows users to check real-time exchange rates, manage their favorite currency pairs, and perform seamless conversions.  
 
@@ -48,10 +52,10 @@ In today's global economy, individuals and businesses often deal with multiple c
 
 ## 🖼️ Screenshots  
 
-### Login Page  
+
 ![Login Page](https://github.com/user-attachments/assets/930362a5-1e65-4d76-a27f-225396948cad)  
 
-### Currency Conversion Page  
+
 ![Conversion Page](https://github.com/user-attachments/assets/90fb6789-6861-49d7-a9c6-d067c2ddf588)  
 
 ---
@@ -62,17 +66,18 @@ In today's global economy, individuals and businesses often deal with multiple c
    ```bash
    git clone https://github.com/shiv-1540/CureencyConvertor.git
 
- 2.Open the project in your preferred IDE.
+2.Open the project in your preferred IDE.
  
- 3.Run the Login.java file to start the application.
+3.Run the Login.java file to start the application.
 
 ## 🤝 Contributions
 
   - Feel free to fork the repository and submit pull requests for improvements or new features!
 
 ## 📞 Connect With Me
-   -GitHub: https://github.com/shiv-1540
-   -LinkedIn: https://www.linkedin.com/in/shivshankar-ghyar-870972289
+   - GitHub: https://github.com/shiv-1540
+   
+   - LinkedIn: https://www.linkedin.com/in/shivshankar-ghyar-870972289
 
 
 
