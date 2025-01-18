@@ -1,8 +1,8 @@
 # Currency Converter Application 💱  
 
 <div>
-   <img src="https://github.com/user-attachments/assets/6f8947d8-5b2d-4bf5-9e48-013f46d6d086"/>
-   <img src="https://github.com/user-attachments/assets/2bf065f2-5eb6-4d5c-8e25-5cc3b0ee10fa"/>
+   <img src="https://github.com/user-attachments/assets/6f8947d8-5b2d-4bf5-9e48-013f46d6d086" alt="Currency" width="300" height="200" style="margin-right: 10px;"/>
+   <img src="https://github.com/user-attachments/assets/2bf065f2-5eb6-4d5c-8e25-5cc3b0ee10fa" alt="Currency" width="300" height="200" style="margin-right: 10px;"/>
 </div>
 
 A **Java Swing and AWT-based Currency Converter** that allows users to check real-time exchange rates, manage their favorite currency pairs, and perform seamless conversions.  
